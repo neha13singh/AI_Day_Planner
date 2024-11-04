@@ -33,7 +33,7 @@ A modern web application that combines weather forecasting with AI-powered day p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/neha13singh/weather-app.git
+(https://github.com/neha13singh/AI_Day_Planner.git)
 ```
 
 ## 🔧 Environment Variables
