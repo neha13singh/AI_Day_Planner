@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/weather-app/',
+  base: '/AI_Day_Planner/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
