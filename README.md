@@ -19,9 +19,6 @@ A modern web application that combines weather forecasting with AI-powered day p
   - Custom activity planning
   - Time-based organization
 
-## 🚀 Live Demo
-
-Visit the live application: [Weather App](https://neha13singh.github.io/weather-app)
 
 ## 🛠️ Technologies Used
 
