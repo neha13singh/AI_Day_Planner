@@ -2,6 +2,9 @@
 
 A modern web application that combines weather forecasting with AI-powered day planning capabilities. Built with React, Vite, and Material-UI.
 
+![Demo Screenshot](https://github.com/user-attachments/assets/78f31ff4-e311-4506-ac73-0211bf4e9f4c)
+
+
 ## 🌟 Features
 
 - **Real-time Weather Information**
