@@ -2,6 +2,9 @@
 
 A modern web application that combines weather forecasting with AI-powered day planning capabilities. Built with React, Vite, and Material-UI.
 
+![Demo Screenshot](https://github.com/user-attachments/assets/78f31ff4-e311-4506-ac73-0211bf4e9f4c)
+
+
 ## 🌟 Features
 
 - **Real-time Weather Information**
@@ -16,9 +19,6 @@ A modern web application that combines weather forecasting with AI-powered day p
   - Custom activity planning
   - Time-based organization
 
-## 🚀 Live Demo
-
-Visit the live application: [Weather App](https://neha13singh.github.io/weather-app)
 
 ## 🛠️ Technologies Used
 
@@ -33,7 +33,7 @@ Visit the live application: [Weather App](https://neha13singh.github.io/weather-
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/neha13singh/weather-app.git
+(https://github.com/neha13singh/AI_Day_Planner.git)
 ```
 
 ## 🔧 Environment Variables
